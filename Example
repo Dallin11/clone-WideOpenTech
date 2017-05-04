@@ -1,0 +1,65 @@
+!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="main-header-wrapper">
+
+    <div class="left-header-container">
+
+        <h1 style="font-size: 0.1px">Wide Open Tech</h1>
+        <img src="./images/logos/9.png" alt="Wide open tech logo">
+
+    </div>
+    <div class="right-header-container">
+        <ul>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Company</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Careers</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+
+</header>
+
+<section class="jumbo-wrapper">
+    <div class="title-container">
+        <h2>
+            <span>Your Digital</span>
+            <span>Workshop</span>
+            <span>Building Business Solutions and Bright Ideas</span>
+        </h2>
+
+        <div class="jumbo-btn">Learn More</div>
+    </div>
+</section>
+
+<main>
+    <section>
+        <p>Wide Open Technologies brings enterprise-level technology
+            to small and mid-sized companies – building the digital technology that
+            solves unique problems, works better and turns ideas into functional reality.</p>
+
+        <p>HERE'S HOW IT WORKS</p>
+    </section>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
+</main>
+
+<footer></footer>
+
+</body>
+</html>
